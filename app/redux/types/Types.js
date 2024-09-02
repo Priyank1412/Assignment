@@ -1,0 +1,5 @@
+export default {
+    FAVORITES: "FAVORITES",
+    EMPTYFAVORITES: "EMPTYFAVORITES",
+    MOVIES: "MOVIES"
+}
